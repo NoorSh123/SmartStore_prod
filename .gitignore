@@ -1,0 +1,12 @@
+# env files
+backend/.env
+backend/.env.*
+.env
+.env.*
+**/.env
+**/.env.*
+
+# Python cache files
+__pycache__/
+**/__pycache__/
+*.py[cod]
